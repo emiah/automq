@@ -1,0 +1,9 @@
+dependencies:
+- name: mysql
+  repository: https://charts.bitnami.com/bitnami
+  version: 9.14.1
+- name: localstack
+  repository: https://localstack.github.io/helm-charts
+  version: 0.6.5
+digest: sha256:78a71d5393fdd144614d368056bf903640a8f9af988cf91065ae8d9dc2c52ad1
+generated: "2023-12-06T10:52:48.724895064Z"
